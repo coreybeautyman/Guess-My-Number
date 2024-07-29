@@ -1,0 +1,15 @@
+{
+  "name": "05_first05-guess-my-number",
+  "version": "1.0.0",
+  "description": "Number guessing game ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel starter/index.html",
+    "build": "parcel build starter/index.html"
+  },
+  "author": "Corey Beautyman",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
